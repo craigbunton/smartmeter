@@ -1,5 +1,8 @@
-venv/
+.venv/
 data/
+data_2013/
 data.csv
+kaggle_data/
+local/
 .ipynb_checkpoints
 .git
