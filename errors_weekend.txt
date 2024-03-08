@@ -1,0 +1,2687 @@
+MAC000004 contains only 9 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000005 contains 'ToU'. Skipping this LCLid.
+MAC000006 contains only 18 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000007 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC000012 contains only 29 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000014 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000015 contains 'ToU'. Skipping this LCLid.
+MAC000016 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000017 contains 'ToU'. Skipping this LCLid.
+MAC000025 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC000028 contains only 21 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC000029 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC000031 contains 'ToU'. Skipping this LCLid.
+MAC000032 contains only 36 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000036 contains only 40 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000037 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000038 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC000039 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC000041 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000044 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000046 contains 'ToU'. Skipping this LCLid.
+MAC000047 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000048 contains 'ToU'. Skipping this LCLid.
+MAC000050 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000051 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000052 contains 'ToU'. Skipping this LCLid.
+MAC000053 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC000055 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000056 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000061 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000062 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000064 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000065 contains 'ToU'. Skipping this LCLid.
+MAC000067 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000069 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000070 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000071 contains 'ToU'. Skipping this LCLid.
+MAC000073 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000075 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000076 contains 'ToU'. Skipping this LCLid.
+MAC000077 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC000079 contains only 1 datapoints for date 2013-07-07. Skipping this LCLid.
+MAC000080 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000081 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000082 contains 'ToU'. Skipping this LCLid.
+MAC000086 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC000087 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000088 contains 'ToU'. Skipping this LCLid.
+MAC000090 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000092 contains only 40 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000093 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000101 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC000104 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000106 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000107 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000109 contains 'ToU'. Skipping this LCLid.
+MAC000113 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000114 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000119 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC000120 contains only 0 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC000122 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000124 contains 'ToU'. Skipping this LCLid.
+MAC000125 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000126 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000129 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC000132 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000134 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000135 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000136 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000138 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000139 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000141 contains 'ToU'. Skipping this LCLid.
+MAC000142 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000144 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000146 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000147 contains 'ToU'. Skipping this LCLid.
+MAC000148 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000149 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000150 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000151 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000153 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000154 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000155 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000156 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000157 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000158 contains 'ToU'. Skipping this LCLid.
+MAC000159 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000160 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000161 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000163 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000164 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000165 contains 'ToU'. Skipping this LCLid.
+MAC000166 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000167 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000170 contains 'ToU'. Skipping this LCLid.
+MAC000171 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000172 contains only 0 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC000173 contains 'ToU'. Skipping this LCLid.
+MAC000174 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC000176 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000183 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC000184 contains only 0 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC000185 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000186 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000187 contains 'ToU'. Skipping this LCLid.
+MAC000189 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000190 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000191 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000192 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000193 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000194 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000195 contains 'ToU'. Skipping this LCLid.
+MAC000196 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000197 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000198 contains 'ToU'. Skipping this LCLid.
+MAC000200 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000201 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000202 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000203 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000204 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000206 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000208 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000209 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000210 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000211 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000212 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000213 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000214 contains only 41 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC000215 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000216 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000217 contains only 28 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC000219 contains 'ToU'. Skipping this LCLid.
+MAC000220 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000222 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000223 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000224 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000225 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000226 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000227 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000229 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000231 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000232 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000233 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000234 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000235 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC000236 contains 'ToU'. Skipping this LCLid.
+MAC000237 contains only 1 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000238 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000241 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000242 contains only 45 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000243 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000245 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000247 contains 'ToU'. Skipping this LCLid.
+MAC000250 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000251 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC000252 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000253 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC000257 contains 'ToU'. Skipping this LCLid.
+MAC000258 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000259 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000261 contains 'ToU'. Skipping this LCLid.
+MAC000262 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000263 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC000264 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000265 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000266 contains 'ToU'. Skipping this LCLid.
+MAC000268 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000269 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC000273 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000274 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000275 contains only 45 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC000276 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC000278 contains 'ToU'. Skipping this LCLid.
+MAC000279 contains only 34 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC000283 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000284 contains only 1 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC000286 contains 'ToU'. Skipping this LCLid.
+MAC000287 contains only 7 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000288 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000290 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000292 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000293 contains 'ToU'. Skipping this LCLid.
+MAC000294 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC000297 contains only 31 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC000298 contains 'ToU'. Skipping this LCLid.
+MAC000299 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000300 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC000303 contains 'ToU'. Skipping this LCLid.
+MAC000325 contains only 9 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000328 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000336 contains 'ToU'. Skipping this LCLid.
+MAC000337 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000339 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000342 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000344 contains 'ToU'. Skipping this LCLid.
+MAC000346 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000348 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC000352 contains 'ToU'. Skipping this LCLid.
+MAC000353 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000354 contains 'ToU'. Skipping this LCLid.
+MAC000356 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000358 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000361 contains only 1 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC000364 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC000366 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000369 contains 'ToU'. Skipping this LCLid.
+MAC000375 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC000376 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000377 contains only 1 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000378 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000379 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC000380 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC000383 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000384 contains 'ToU'. Skipping this LCLid.
+MAC000386 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC000390 contains only 44 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC000391 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000392 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000395 contains 'ToU'. Skipping this LCLid.
+MAC000398 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000399 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000401 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000402 contains 'ToU'. Skipping this LCLid.
+MAC000404 contains only 28 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC000405 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000406 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000408 contains 'ToU'. Skipping this LCLid.
+MAC000412 contains only 46 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000413 contains only 28 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC000414 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC000416 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000418 contains 'ToU'. Skipping this LCLid.
+MAC000419 contains only 1 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC000421 contains 'ToU'. Skipping this LCLid.
+MAC000424 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC000425 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC000427 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC000430 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000432 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000433 contains 'ToU'. Skipping this LCLid.
+MAC000434 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000435 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC000436 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC000439 contains 'ToU'. Skipping this LCLid.
+MAC000444 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000447 contains 'ToU'. Skipping this LCLid.
+MAC000450 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000451 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000456 contains 'ToU'. Skipping this LCLid.
+MAC000458 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000461 contains 'ToU'. Skipping this LCLid.
+MAC000463 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC000464 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000465 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000467 contains 'ToU'. Skipping this LCLid.
+MAC000469 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000470 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000475 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000478 contains 'ToU'. Skipping this LCLid.
+MAC000483 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000486 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000487 contains 'ToU'. Skipping this LCLid.
+MAC000488 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000491 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000494 contains 'ToU'. Skipping this LCLid.
+MAC000495 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000497 contains 'ToU'. Skipping this LCLid.
+MAC000499 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC000500 contains 'ToU'. Skipping this LCLid.
+MAC000501 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000512 contains 'ToU'. Skipping this LCLid.
+MAC000514 contains only 1 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000515 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000517 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC000521 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000523 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000525 contains 'ToU'. Skipping this LCLid.
+MAC000528 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000529 contains 'ToU'. Skipping this LCLid.
+MAC000530 contains only 41 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000533 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000534 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000535 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000536 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000537 contains 'ToU'. Skipping this LCLid.
+MAC000539 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000540 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000542 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000544 contains 'ToU'. Skipping this LCLid.
+MAC000546 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000549 contains 'ToU'. Skipping this LCLid.
+MAC000550 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000552 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000555 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000558 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000559 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000561 contains 'ToU'. Skipping this LCLid.
+MAC000562 contains only 45 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000563 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000564 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC000565 contains 'ToU'. Skipping this LCLid.
+MAC000567 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000574 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC000580 contains only 46 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC000582 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000583 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000584 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000586 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000587 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000590 contains 'ToU'. Skipping this LCLid.
+MAC000591 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000593 contains 'ToU'. Skipping this LCLid.
+MAC000594 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000595 contains 'ToU'. Skipping this LCLid.
+MAC000596 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000597 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000598 contains 'ToU'. Skipping this LCLid.
+MAC000599 contains only 1 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000600 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC000601 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000602 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000603 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000605 contains 'ToU'. Skipping this LCLid.
+MAC000606 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000607 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000609 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000611 contains 'ToU'. Skipping this LCLid.
+MAC000615 contains only 42 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC000616 contains only 39 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC000617 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000620 contains 'ToU'. Skipping this LCLid.
+MAC000621 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000625 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC000626 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000627 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC000628 contains 'ToU'. Skipping this LCLid.
+MAC000631 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000633 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000635 contains 'ToU'. Skipping this LCLid.
+MAC000636 contains only 4 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000637 contains only 45 datapoints for date 2013-03-09. Skipping this LCLid.
+LCLid MAC000640 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000641 contains 'ToU'. Skipping this LCLid.
+MAC000652 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000653 contains 'ToU'. Skipping this LCLid.
+MAC000655 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC000662 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC000665 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000666 contains 'ToU'. Skipping this LCLid.
+MAC000667 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000668 contains only 0 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC000669 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC000671 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000672 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000673 contains 'ToU'. Skipping this LCLid.
+MAC000675 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000678 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC000680 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000681 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000683 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000687 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000688 contains 'ToU'. Skipping this LCLid.
+MAC000694 contains only 47 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC000695 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000697 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000700 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000701 contains only 24 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC000702 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000704 contains 'ToU'. Skipping this LCLid.
+MAC000706 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000707 contains only 1 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC000708 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000709 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000710 contains 'ToU'. Skipping this LCLid.
+MAC000711 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000716 contains 'ToU'. Skipping this LCLid.
+MAC000717 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000718 contains only 1 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC000719 contains 'ToU'. Skipping this LCLid.
+MAC000720 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000721 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC000722 contains 'ToU'. Skipping this LCLid.
+MAC000723 contains only 43 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC000725 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000728 contains 'ToU'. Skipping this LCLid.
+MAC000729 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000730 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC000734 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000735 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000738 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000739 contains 'ToU'. Skipping this LCLid.
+MAC000740 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000741 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000744 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC000745 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000751 contains 'ToU'. Skipping this LCLid.
+MAC000752 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000753 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000754 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000755 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000759 contains 'ToU'. Skipping this LCLid.
+MAC000760 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000762 contains only 30 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC000765 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC000766 contains 'ToU'. Skipping this LCLid.
+MAC000769 contains only 45 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000770 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000771 contains only 46 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC000772 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000775 contains 'ToU'. Skipping this LCLid.
+MAC000777 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000778 contains only 2 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000783 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC000785 contains 'ToU'. Skipping this LCLid.
+MAC000786 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000789 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000791 contains 'ToU'. Skipping this LCLid.
+MAC000792 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000793 contains only 1 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC000794 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC000796 contains only 33 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000797 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000801 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000803 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000805 contains 'ToU'. Skipping this LCLid.
+MAC000807 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000808 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000810 contains 'ToU'. Skipping this LCLid.
+MAC000812 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC000813 contains only 0 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000814 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000817 contains 'ToU'. Skipping this LCLid.
+MAC000818 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC000819 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000821 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000822 contains 'ToU'. Skipping this LCLid.
+MAC000823 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000828 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000830 contains 'ToU'. Skipping this LCLid.
+MAC000831 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC000833 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC000834 contains 'ToU'. Skipping this LCLid.
+MAC000836 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC000839 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC000840 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC000841 contains 'ToU'. Skipping this LCLid.
+MAC000843 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC000844 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000845 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000847 contains 'ToU'. Skipping this LCLid.
+MAC000848 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000849 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000850 contains only 46 datapoints for date 2013-08-25. Skipping this LCLid.
+LCLid MAC000851 contains 'ToU'. Skipping this LCLid.
+MAC000856 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC000857 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000859 contains 'ToU'. Skipping this LCLid.
+MAC000863 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000865 contains only 0 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC000868 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000877 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000878 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000879 contains 'ToU'. Skipping this LCLid.
+MAC000881 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000882 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC000883 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000884 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000887 contains 'ToU'. Skipping this LCLid.
+MAC000890 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000894 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC000895 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000898 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000901 contains 'ToU'. Skipping this LCLid.
+MAC000906 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC000908 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC000910 contains 'ToU'. Skipping this LCLid.
+MAC000912 contains only 1 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC000913 contains 'ToU'. Skipping this LCLid.
+MAC000917 contains only 47 datapoints for date 2013-01-20. Skipping this LCLid.
+MAC000920 contains only 32 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000921 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000923 contains only 1 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC000924 contains 'ToU'. Skipping this LCLid.
+MAC000925 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC000928 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC000931 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000932 contains 'ToU'. Skipping this LCLid.
+MAC000933 contains only 1 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC000935 contains 'ToU'. Skipping this LCLid.
+MAC000936 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000937 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000938 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000939 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000942 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000943 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000944 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000945 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000946 contains 'ToU'. Skipping this LCLid.
+MAC000951 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000953 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC000954 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC000959 contains only 1 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC000961 contains 'ToU'. Skipping this LCLid.
+MAC000962 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC000963 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC000964 contains only 17 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000965 contains 'ToU'. Skipping this LCLid.
+MAC000967 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC000971 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC000972 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC000976 contains 'ToU'. Skipping this LCLid.
+MAC000977 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000978 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC000979 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC000980 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC000981 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC000982 contains 'ToU'. Skipping this LCLid.
+MAC000983 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC000985 contains 'ToU'. Skipping this LCLid.
+MAC000987 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC000988 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC000991 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000993 contains 'ToU'. Skipping this LCLid.
+LCLid MAC000994 contains 'ToU'. Skipping this LCLid.
+MAC000997 contains only 42 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC000999 contains 'ToU'. Skipping this LCLid.
+MAC001001 contains only 46 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001004 contains 'ToU'. Skipping this LCLid.
+MAC001005 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001011 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001012 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001013 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001014 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001015 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001016 contains 'ToU'. Skipping this LCLid.
+MAC001019 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001020 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC001023 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001024 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001025 contains 'ToU'. Skipping this LCLid.
+MAC001026 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001027 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001030 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001033 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001034 contains 'ToU'. Skipping this LCLid.
+MAC001035 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001038 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001039 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC001043 contains only 37 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001044 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC001045 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001046 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001049 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC001051 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001052 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC001056 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001057 contains 'ToU'. Skipping this LCLid.
+MAC001061 contains only 45 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC001063 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001064 contains 'ToU'. Skipping this LCLid.
+MAC001066 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001067 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC001070 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC001071 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC001073 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001075 contains 'ToU'. Skipping this LCLid.
+MAC001079 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001080 contains only 0 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC001082 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001084 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC001085 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC001087 contains 'ToU'. Skipping this LCLid.
+MAC001090 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001091 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001092 contains 'ToU'. Skipping this LCLid.
+MAC001093 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001095 contains only 3 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001096 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001097 contains 'ToU'. Skipping this LCLid.
+MAC001099 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001102 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001103 contains 'ToU'. Skipping this LCLid.
+MAC001104 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001105 contains 'ToU'. Skipping this LCLid.
+MAC001106 contains only 46 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC001107 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001108 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001110 contains 'ToU'. Skipping this LCLid.
+MAC001111 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC001113 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001115 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001116 contains 'ToU'. Skipping this LCLid.
+MAC001117 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+LCLid MAC001118 contains 'ToU'. Skipping this LCLid.
+MAC001120 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001121 contains only 1 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC001122 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001125 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC001126 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001129 contains 'ToU'. Skipping this LCLid.
+MAC001131 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC001132 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001133 contains 'ToU'. Skipping this LCLid.
+MAC001134 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001136 contains 'ToU'. Skipping this LCLid.
+MAC001137 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC001138 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001139 contains only 43 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC001141 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001142 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001143 contains 'ToU'. Skipping this LCLid.
+MAC001144 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC001145 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001147 contains 'ToU'. Skipping this LCLid.
+MAC001155 contains only 1 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001156 contains 'ToU'. Skipping this LCLid.
+MAC001158 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001160 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001161 contains only 1 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC001163 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001165 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001166 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001169 contains 'ToU'. Skipping this LCLid.
+MAC001170 contains only 34 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC001172 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC001174 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001175 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001176 contains only 38 datapoints for date 2013-01-19. Skipping this LCLid.
+LCLid MAC001179 contains 'ToU'. Skipping this LCLid.
+MAC001180 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001181 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001182 contains 'ToU'. Skipping this LCLid.
+MAC001192 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001194 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC001195 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001196 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001201 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001202 contains 'ToU'. Skipping this LCLid.
+MAC001205 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC001206 contains 'ToU'. Skipping this LCLid.
+MAC001207 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001208 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001209 contains 'ToU'. Skipping this LCLid.
+MAC001216 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC001218 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC001219 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001222 contains 'ToU'. Skipping this LCLid.
+MAC001224 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001225 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC001228 contains 'ToU'. Skipping this LCLid.
+MAC001230 contains only 0 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC001231 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001232 contains 'ToU'. Skipping this LCLid.
+MAC001238 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC001243 contains only 1 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC001246 contains 'ToU'. Skipping this LCLid.
+MAC001249 contains only 44 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC001251 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001252 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC001254 contains 'ToU'. Skipping this LCLid.
+MAC001257 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001258 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001259 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC001260 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC001264 contains 'ToU'. Skipping this LCLid.
+MAC001266 contains only 46 datapoints for date 2013-01-20. Skipping this LCLid.
+MAC001269 contains only 34 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001270 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001274 contains 'ToU'. Skipping this LCLid.
+MAC001276 contains only 40 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC001277 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001279 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001281 contains 'ToU'. Skipping this LCLid.
+MAC001282 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC001284 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001285 contains 'ToU'. Skipping this LCLid.
+MAC001287 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001289 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001290 contains 'ToU'. Skipping this LCLid.
+MAC001291 contains only 46 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC001297 contains 'ToU'. Skipping this LCLid.
+MAC001298 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC001299 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001303 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001305 contains 'ToU'. Skipping this LCLid.
+MAC001306 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001309 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001311 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001314 contains only 40 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001318 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001319 contains 'ToU'. Skipping this LCLid.
+MAC001320 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC001321 contains only 32 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC001322 contains 'ToU'. Skipping this LCLid.
+MAC001323 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001326 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001329 contains only 40 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001330 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC001331 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC001334 contains only 46 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC001335 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001336 contains 'ToU'. Skipping this LCLid.
+MAC001337 contains only 47 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC001338 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001339 contains only 35 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001342 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC001343 contains 'ToU'. Skipping this LCLid.
+MAC001344 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001347 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC001348 contains only 8 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001351 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001352 contains 'ToU'. Skipping this LCLid.
+MAC001355 contains only 46 datapoints for date 2013-02-02. Skipping this LCLid.
+MAC001357 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC001360 contains 'ToU'. Skipping this LCLid.
+MAC001362 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001363 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC001364 contains 'ToU'. Skipping this LCLid.
+MAC001365 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001366 contains 'ToU'. Skipping this LCLid.
+MAC001368 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001369 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001372 contains 'ToU'. Skipping this LCLid.
+MAC001373 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC001374 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC001375 contains only 24 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001377 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC001379 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC001381 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC001383 contains 'ToU'. Skipping this LCLid.
+MAC001384 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001385 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC001386 contains 'ToU'. Skipping this LCLid.
+MAC001389 contains only 28 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001392 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001394 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC001401 contains only 46 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC001402 contains 'ToU'. Skipping this LCLid.
+MAC001403 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001404 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001405 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001407 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001410 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001413 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001414 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001417 contains 'ToU'. Skipping this LCLid.
+MAC001418 contains only 29 datapoints for date 2013-09-15. Skipping this LCLid.
+MAC001419 contains only 0 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC001420 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001421 contains 'ToU'. Skipping this LCLid.
+MAC001423 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC001424 contains only 42 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC001428 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001429 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001431 contains 'ToU'. Skipping this LCLid.
+MAC001433 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001435 contains 'ToU'. Skipping this LCLid.
+MAC001436 contains only 38 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC001437 contains 'ToU'. Skipping this LCLid.
+MAC001438 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001439 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC001440 contains 'ToU'. Skipping this LCLid.
+MAC001441 contains only 37 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC001443 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001444 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001446 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC001447 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001449 contains 'ToU'. Skipping this LCLid.
+MAC001454 contains only 40 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC001456 contains only 0 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC001460 contains only 43 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC001462 contains only 34 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001464 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC001466 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001470 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001471 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001475 contains 'ToU'. Skipping this LCLid.
+MAC001476 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC001477 contains 'ToU'. Skipping this LCLid.
+MAC001478 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001480 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001482 contains 'ToU'. Skipping this LCLid.
+MAC001483 contains only 22 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001487 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001495 contains 'ToU'. Skipping this LCLid.
+MAC001497 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC001498 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC001504 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001505 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001508 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001509 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001512 contains 'ToU'. Skipping this LCLid.
+MAC001516 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001517 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001527 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC001529 contains 'ToU'. Skipping this LCLid.
+MAC001534 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001535 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC001536 contains 'ToU'. Skipping this LCLid.
+MAC001537 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001538 contains 'ToU'. Skipping this LCLid.
+MAC001540 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001542 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001547 contains 'ToU'. Skipping this LCLid.
+MAC001551 contains only 0 datapoints for date 2013-02-23. Skipping this LCLid.
+LCLid MAC001554 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001556 contains 'ToU'. Skipping this LCLid.
+MAC001557 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC001558 contains only 16 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC001559 contains 'ToU'. Skipping this LCLid.
+MAC001560 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC001561 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC001564 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001566 contains 'ToU'. Skipping this LCLid.
+MAC001572 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001574 contains only 37 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC001576 contains 'ToU'. Skipping this LCLid.
+MAC001577 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001582 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001586 contains 'ToU'. Skipping this LCLid.
+MAC001587 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC001589 contains only 44 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC001590 contains 'ToU'. Skipping this LCLid.
+MAC001594 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC001595 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001596 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001597 contains 'ToU'. Skipping this LCLid.
+MAC001598 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001599 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001602 contains 'ToU'. Skipping this LCLid.
+MAC001608 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001610 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001612 contains 'ToU'. Skipping this LCLid.
+MAC001613 contains only 39 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC001614 contains 'ToU'. Skipping this LCLid.
+MAC001616 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC001617 contains only 39 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC001622 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001623 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC001626 contains 'ToU'. Skipping this LCLid.
+MAC001629 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001630 contains only 35 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC001631 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001632 contains only 2 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC001634 contains only 46 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC001636 contains 'ToU'. Skipping this LCLid.
+MAC001641 contains only 43 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC001642 contains 'ToU'. Skipping this LCLid.
+MAC001644 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001645 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001650 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001651 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001653 contains 'ToU'. Skipping this LCLid.
+MAC001654 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001655 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001658 contains 'ToU'. Skipping this LCLid.
+MAC001659 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001660 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001667 contains 'ToU'. Skipping this LCLid.
+MAC001671 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001677 contains only 44 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC001680 contains 'ToU'. Skipping this LCLid.
+MAC001681 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001682 contains 'ToU'. Skipping this LCLid.
+MAC001685 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001686 contains 'ToU'. Skipping this LCLid.
+MAC001687 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC001688 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001693 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001694 contains 'ToU'. Skipping this LCLid.
+MAC001699 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC001704 contains 'ToU'. Skipping this LCLid.
+MAC001705 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001706 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001707 contains 'ToU'. Skipping this LCLid.
+MAC001711 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+LCLid MAC001712 contains 'ToU'. Skipping this LCLid.
+MAC001713 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001715 contains 'ToU'. Skipping this LCLid.
+MAC001716 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001717 contains only 1 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001718 contains 'ToU'. Skipping this LCLid.
+MAC001731 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC001736 contains 'ToU'. Skipping this LCLid.
+MAC001737 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC001741 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001743 contains 'ToU'. Skipping this LCLid.
+MAC001748 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001749 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001750 contains 'ToU'. Skipping this LCLid.
+MAC001752 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001755 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001756 contains 'ToU'. Skipping this LCLid.
+MAC001758 contains only 27 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001763 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC001766 contains only 1 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC001767 contains 'ToU'. Skipping this LCLid.
+MAC001768 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001770 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001772 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001773 contains 'ToU'. Skipping this LCLid.
+MAC001774 contains only 1 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001776 contains only 39 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC001777 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001778 contains 'ToU'. Skipping this LCLid.
+MAC001781 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001782 contains only 47 datapoints for date 2013-02-23. Skipping this LCLid.
+MAC001791 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC001795 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC001798 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC001799 contains only 9 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC001800 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC001802 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001803 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001804 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC001806 contains 'ToU'. Skipping this LCLid.
+MAC001811 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001812 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001813 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001814 contains 'ToU'. Skipping this LCLid.
+MAC001815 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001817 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC001820 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001822 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001823 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001825 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001826 contains 'ToU'. Skipping this LCLid.
+MAC001828 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC001830 contains 'ToU'. Skipping this LCLid.
+MAC001831 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001832 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC001833 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001835 contains 'ToU'. Skipping this LCLid.
+MAC001837 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC001838 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001840 contains 'ToU'. Skipping this LCLid.
+MAC001841 contains only 1 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC001842 contains only 46 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC001843 contains only 1 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001846 contains only 1 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001847 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001849 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001851 contains 'ToU'. Skipping this LCLid.
+MAC001852 contains only 47 datapoints for date 2013-09-07. Skipping this LCLid.
+LCLid MAC001853 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001855 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001856 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001857 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001858 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001861 contains 'ToU'. Skipping this LCLid.
+MAC001863 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001865 contains 'ToU'. Skipping this LCLid.
+MAC001867 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001870 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001873 contains 'ToU'. Skipping this LCLid.
+MAC001876 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001879 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC001880 contains 'ToU'. Skipping this LCLid.
+MAC001886 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC001887 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001889 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC001895 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC001898 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001900 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC001901 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001902 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC001904 contains 'ToU'. Skipping this LCLid.
+MAC001906 contains only 47 datapoints for date 2013-09-01. Skipping this LCLid.
+MAC001908 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001910 contains 'ToU'. Skipping this LCLid.
+MAC001911 contains only 1 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC001912 contains 'ToU'. Skipping this LCLid.
+MAC001920 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC001921 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC001925 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001928 contains 'ToU'. Skipping this LCLid.
+MAC001934 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC001935 contains only 27 datapoints for date 2013-01-27. Skipping this LCLid.
+MAC001937 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC001942 contains 'ToU'. Skipping this LCLid.
+MAC001948 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC001950 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC001951 contains 'ToU'. Skipping this LCLid.
+LCLid MAC001952 contains 'ToU'. Skipping this LCLid.
+MAC001953 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001955 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001958 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC001959 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC001961 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC001962 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC001968 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC001969 contains 'ToU'. Skipping this LCLid.
+MAC001974 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001976 contains 'ToU'. Skipping this LCLid.
+MAC001978 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC001980 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC001981 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC001984 contains 'ToU'. Skipping this LCLid.
+MAC001985 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC001987 contains only 0 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC001989 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC001990 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC001993 contains 'ToU'. Skipping this LCLid.
+MAC001997 contains only 44 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC001998 contains 'ToU'. Skipping this LCLid.
+MAC002004 contains only 0 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002005 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002006 contains 'ToU'. Skipping this LCLid.
+MAC002010 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC002011 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002013 contains 'ToU'. Skipping this LCLid.
+MAC002016 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC002017 contains 'ToU'. Skipping this LCLid.
+MAC002018 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002019 contains only 1 datapoints for date 2013-09-01. Skipping this LCLid.
+MAC002020 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC002022 contains 'ToU'. Skipping this LCLid.
+MAC002023 contains only 1 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002024 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002026 contains only 38 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC002029 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002030 contains 'ToU'. Skipping this LCLid.
+MAC002031 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC002032 contains only 42 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002034 contains only 43 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC002036 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC002039 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002040 contains 'ToU'. Skipping this LCLid.
+MAC002043 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002046 contains 'ToU'. Skipping this LCLid.
+MAC002050 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002052 contains 'ToU'. Skipping this LCLid.
+MAC002054 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC002056 contains only 1 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC002057 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002060 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002061 contains 'ToU'. Skipping this LCLid.
+MAC002062 contains only 44 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002064 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002067 contains only 1 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC002068 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002072 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002073 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002075 contains 'ToU'. Skipping this LCLid.
+MAC002076 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC002082 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC002083 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002084 contains 'ToU'. Skipping this LCLid.
+MAC002085 contains only 46 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC002089 contains only 47 datapoints for date 2013-01-27. Skipping this LCLid.
+MAC002091 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC002092 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002093 contains 'ToU'. Skipping this LCLid.
+MAC002096 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002097 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002098 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002099 contains 'ToU'. Skipping this LCLid.
+MAC002101 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC002102 contains 'ToU'. Skipping this LCLid.
+MAC002105 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002106 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002108 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002111 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002113 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002118 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002119 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002122 contains 'ToU'. Skipping this LCLid.
+MAC002124 contains only 41 datapoints for date 2013-09-08. Skipping this LCLid.
+LCLid MAC002126 contains 'ToU'. Skipping this LCLid.
+MAC002127 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002128 contains only 47 datapoints for date 2013-02-02. Skipping this LCLid.
+MAC002130 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002131 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002132 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002134 contains 'ToU'. Skipping this LCLid.
+MAC002136 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002140 contains 'ToU'. Skipping this LCLid.
+MAC002142 contains only 46 datapoints for date 2013-09-08. Skipping this LCLid.
+MAC002143 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC002146 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002147 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002148 contains 'ToU'. Skipping this LCLid.
+MAC002149 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002151 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC002154 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002156 contains 'ToU'. Skipping this LCLid.
+MAC002157 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002159 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002162 contains only 37 datapoints for date 2013-09-15. Skipping this LCLid.
+LCLid MAC002164 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002166 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002167 contains 'ToU'. Skipping this LCLid.
+MAC002169 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002171 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002173 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC002174 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC002175 contains only 1 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC002176 contains 'ToU'. Skipping this LCLid.
+MAC002181 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC002182 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002183 contains 'ToU'. Skipping this LCLid.
+MAC002186 contains only 45 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC002188 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002193 contains 'ToU'. Skipping this LCLid.
+MAC002195 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002197 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC002199 contains 'ToU'. Skipping this LCLid.
+MAC002200 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002201 contains 'ToU'. Skipping this LCLid.
+MAC002202 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002203 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002205 contains only 35 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC002206 contains only 1 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC002207 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002209 contains only 43 datapoints for date 2013-03-09. Skipping this LCLid.
+MAC002214 contains only 1 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC002215 contains 'ToU'. Skipping this LCLid.
+MAC002216 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC002217 contains 'ToU'. Skipping this LCLid.
+MAC002218 contains only 0 datapoints for date 2013-09-07. Skipping this LCLid.
+LCLid MAC002219 contains 'ToU'. Skipping this LCLid.
+MAC002221 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002222 contains 'ToU'. Skipping this LCLid.
+MAC002224 contains only 2 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002225 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002226 contains 'ToU'. Skipping this LCLid.
+MAC002228 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002229 contains only 0 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC002230 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002232 contains 'ToU'. Skipping this LCLid.
+MAC002234 contains only 42 datapoints for date 2013-07-07. Skipping this LCLid.
+MAC002235 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC002236 contains 'ToU'. Skipping this LCLid.
+MAC002237 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC002238 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002240 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002242 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002243 contains 'ToU'. Skipping this LCLid.
+MAC002244 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC002246 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002247 contains 'ToU'. Skipping this LCLid.
+MAC002251 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002252 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC002255 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002258 contains only 24 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002259 contains only 46 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC002260 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC002262 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC002264 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002265 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002268 contains 'ToU'. Skipping this LCLid.
+MAC002270 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002271 contains only 26 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002273 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002274 contains only 1 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC002277 contains 'ToU'. Skipping this LCLid.
+MAC002279 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC002280 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002281 contains 'ToU'. Skipping this LCLid.
+MAC002282 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC002285 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC002287 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002289 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002290 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002291 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002292 contains 'ToU'. Skipping this LCLid.
+MAC002294 contains only 1 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002297 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC002298 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002300 contains 'ToU'. Skipping this LCLid.
+MAC002304 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002305 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002308 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC002309 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002311 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002313 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002314 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC002318 contains 'ToU'. Skipping this LCLid.
+MAC002320 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002323 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC002324 contains 'ToU'. Skipping this LCLid.
+MAC002328 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002329 contains only 46 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC002330 contains only 47 datapoints for date 2013-02-24. Skipping this LCLid.
+MAC002332 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC002334 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002336 contains 'ToU'. Skipping this LCLid.
+MAC002337 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC002338 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002344 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002346 contains 'ToU'. Skipping this LCLid.
+MAC002351 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002352 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC002357 contains 'ToU'. Skipping this LCLid.
+MAC002359 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002364 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002367 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC002371 contains only 47 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC002373 contains only 0 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC002374 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002380 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC002382 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002384 contains only 46 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002386 contains only 44 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002387 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002392 contains only 31 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002394 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC002398 contains 'ToU'. Skipping this LCLid.
+MAC002401 contains only 47 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC002402 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC002403 contains only 1 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC002404 contains 'ToU'. Skipping this LCLid.
+MAC002405 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002410 contains only 46 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC002413 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002418 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002421 contains 'ToU'. Skipping this LCLid.
+MAC002422 contains only 41 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC002425 contains only 46 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC002426 contains only 0 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002429 contains only 47 datapoints for date 2013-08-04. Skipping this LCLid.
+MAC002430 contains only 39 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC002432 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002433 contains 'ToU'. Skipping this LCLid.
+MAC002438 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002439 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002444 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002445 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002446 contains 'ToU'. Skipping this LCLid.
+MAC002447 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002448 contains 'ToU'. Skipping this LCLid.
+MAC002450 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002452 contains 'ToU'. Skipping this LCLid.
+MAC002453 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC002455 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002457 contains 'ToU'. Skipping this LCLid.
+MAC002459 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002462 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002463 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002464 contains 'ToU'. Skipping this LCLid.
+MAC002465 contains only 4 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002470 contains 'ToU'. Skipping this LCLid.
+MAC002471 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002472 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002473 contains 'ToU'. Skipping this LCLid.
+MAC002475 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC002476 contains 'ToU'. Skipping this LCLid.
+MAC002477 contains only 1 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002479 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC002482 contains 'ToU'. Skipping this LCLid.
+MAC002483 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC002484 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002486 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002488 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002490 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002491 contains 'ToU'. Skipping this LCLid.
+MAC002495 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002496 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002497 contains 'ToU'. Skipping this LCLid.
+MAC002500 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC002501 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC002503 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002504 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC002507 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002508 contains 'ToU'. Skipping this LCLid.
+MAC002511 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC002513 contains only 36 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002518 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002519 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002520 contains 'ToU'. Skipping this LCLid.
+MAC002521 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002529 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002532 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC002533 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002534 contains 'ToU'. Skipping this LCLid.
+MAC002535 contains only 43 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002536 contains 'ToU'. Skipping this LCLid.
+MAC002538 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC002539 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC002548 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC002551 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002552 contains 'ToU'. Skipping this LCLid.
+MAC002553 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC002556 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC002557 contains only 47 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC002559 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002560 contains 'ToU'. Skipping this LCLid.
+MAC002561 contains only 1 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC002562 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002564 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002566 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002568 contains 'ToU'. Skipping this LCLid.
+MAC002572 contains only 38 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC002574 contains 'ToU'. Skipping this LCLid.
+MAC002577 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002578 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002585 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002586 contains 'ToU'. Skipping this LCLid.
+MAC002587 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC002589 contains 'ToU'. Skipping this LCLid.
+MAC002590 contains only 0 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC002593 contains 'ToU'. Skipping this LCLid.
+MAC002594 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002596 contains 'ToU'. Skipping this LCLid.
+MAC002597 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002598 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002602 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002604 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002609 contains 'ToU'. Skipping this LCLid.
+MAC002612 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002613 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002614 contains 'ToU'. Skipping this LCLid.
+MAC002615 contains only 1 datapoints for date 2013-08-04. Skipping this LCLid.
+MAC002616 contains only 43 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002617 contains only 38 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002618 contains 'ToU'. Skipping this LCLid.
+MAC002620 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC002622 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002625 contains 'ToU'. Skipping this LCLid.
+MAC002626 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC002629 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002631 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002632 contains only 43 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC002633 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002634 contains 'ToU'. Skipping this LCLid.
+MAC002637 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002638 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002645 contains 'ToU'. Skipping this LCLid.
+MAC002646 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002650 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC002651 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002654 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002656 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002660 contains only 40 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC002661 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002662 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002664 contains only 45 datapoints for date 2013-02-23. Skipping this LCLid.
+LCLid MAC002665 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002668 contains 'ToU'. Skipping this LCLid.
+MAC002669 contains only 44 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002670 contains only 0 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002671 contains only 44 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC002672 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002673 contains 'ToU'. Skipping this LCLid.
+MAC002674 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC002675 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002677 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002678 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002679 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002680 contains 'ToU'. Skipping this LCLid.
+MAC002681 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002682 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002686 contains 'ToU'. Skipping this LCLid.
+MAC002689 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002690 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002692 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002694 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002695 contains 'ToU'. Skipping this LCLid.
+MAC002696 contains only 33 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002700 contains only 46 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC002701 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002710 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002712 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002713 contains 'ToU'. Skipping this LCLid.
+MAC002715 contains only 46 datapoints for date 2013-01-20. Skipping this LCLid.
+MAC002716 contains only 44 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002717 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002718 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002719 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002721 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC002722 contains 'ToU'. Skipping this LCLid.
+MAC002724 contains only 26 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002725 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC002726 contains 'ToU'. Skipping this LCLid.
+MAC002727 contains only 1 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002728 contains 'ToU'. Skipping this LCLid.
+MAC002729 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC002732 contains 'ToU'. Skipping this LCLid.
+MAC002736 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC002738 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002741 contains 'ToU'. Skipping this LCLid.
+MAC002742 contains only 1 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC002747 contains only 38 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002748 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC002752 contains only 47 datapoints for date 2013-09-15. Skipping this LCLid.
+MAC002757 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002758 contains 'ToU'. Skipping this LCLid.
+MAC002762 contains only 34 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002765 contains 'ToU'. Skipping this LCLid.
+MAC002766 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC002767 contains only 0 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC002768 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC002769 contains 'ToU'. Skipping this LCLid.
+MAC002771 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002772 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002773 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002774 contains 'ToU'. Skipping this LCLid.
+MAC002784 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC002786 contains 'ToU'. Skipping this LCLid.
+MAC002787 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC002792 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002794 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002795 contains 'ToU'. Skipping this LCLid.
+MAC002796 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC002797 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002798 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002800 contains 'ToU'. Skipping this LCLid.
+MAC002801 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002802 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002804 contains only 0 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC002806 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC002809 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002811 contains 'ToU'. Skipping this LCLid.
+MAC002812 contains only 36 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC002814 contains 'ToU'. Skipping this LCLid.
+MAC002815 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002817 contains only 42 datapoints for date 2013-01-20. Skipping this LCLid.
+MAC002824 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC002825 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC002826 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002827 contains 'ToU'. Skipping this LCLid.
+MAC002830 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002832 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC002833 contains 'ToU'. Skipping this LCLid.
+MAC002835 contains only 14 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002836 contains 'ToU'. Skipping this LCLid.
+MAC002837 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC002838 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002839 contains 'ToU'. Skipping this LCLid.
+MAC002841 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002842 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002843 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC002844 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC002845 contains 'ToU'. Skipping this LCLid.
+MAC002846 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002848 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002855 contains 'ToU'. Skipping this LCLid.
+MAC002858 contains only 24 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002861 contains 'ToU'. Skipping this LCLid.
+MAC002863 contains only 19 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002864 contains 'ToU'. Skipping this LCLid.
+MAC002865 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC002866 contains only 46 datapoints for date 2013-09-01. Skipping this LCLid.
+MAC002867 contains only 0 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC002868 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002869 contains 'ToU'. Skipping this LCLid.
+MAC002871 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002872 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC002873 contains only 8 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002874 contains 'ToU'. Skipping this LCLid.
+MAC002875 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002879 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002881 contains 'ToU'. Skipping this LCLid.
+MAC002882 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC002886 contains 'ToU'. Skipping this LCLid.
+MAC002887 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC002888 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002890 contains only 31 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002891 contains 'ToU'. Skipping this LCLid.
+MAC002892 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC002894 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002895 contains 'ToU'. Skipping this LCLid.
+MAC002896 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002897 contains 'ToU'. Skipping this LCLid.
+MAC002898 contains only 41 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC002900 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC002901 contains 'ToU'. Skipping this LCLid.
+MAC002903 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC002904 contains only 43 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC002905 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC002907 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002909 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002910 contains 'ToU'. Skipping this LCLid.
+MAC002911 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002915 contains 'ToU'. Skipping this LCLid.
+MAC002917 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC002918 contains 'ToU'. Skipping this LCLid.
+MAC002919 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002923 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC002925 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002926 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002927 contains 'ToU'. Skipping this LCLid.
+MAC002928 contains only 30 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002930 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002931 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002932 contains 'ToU'. Skipping this LCLid.
+MAC002933 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002935 contains 'ToU'. Skipping this LCLid.
+MAC002936 contains only 43 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC002940 contains only 18 datapoints for date 2013-01-12. Skipping this LCLid.
+MAC002941 contains only 39 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC002945 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC002948 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+LCLid MAC002951 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002954 contains 'ToU'. Skipping this LCLid.
+MAC002956 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC002958 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC002959 contains 'ToU'. Skipping this LCLid.
+MAC002960 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002961 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC002963 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002970 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002971 contains 'ToU'. Skipping this LCLid.
+MAC002972 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC002973 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC002974 contains only 47 datapoints for date 2013-01-27. Skipping this LCLid.
+MAC002976 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002977 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC002978 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC002980 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC002981 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC002982 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002983 contains 'ToU'. Skipping this LCLid.
+MAC002984 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC002985 contains 'ToU'. Skipping this LCLid.
+MAC002987 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC002989 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC002992 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002995 contains 'ToU'. Skipping this LCLid.
+LCLid MAC002997 contains 'ToU'. Skipping this LCLid.
+MAC003006 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC003009 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003013 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC003017 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC003018 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC003019 contains 'ToU'. Skipping this LCLid.
+MAC003025 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC003027 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003031 contains only 21 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003033 contains only 1 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC003035 contains 'ToU'. Skipping this LCLid.
+MAC003036 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC003037 contains 'ToU'. Skipping this LCLid.
+MAC003041 contains only 0 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC003043 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003044 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003045 contains 'ToU'. Skipping this LCLid.
+MAC003046 contains only 42 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC003047 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003049 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003055 contains 'ToU'. Skipping this LCLid.
+MAC003057 contains only 36 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC003058 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003061 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003068 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003069 contains 'ToU'. Skipping this LCLid.
+MAC003070 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC003071 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003074 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003075 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC003076 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC003079 contains only 42 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC003080 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003082 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003088 contains 'ToU'. Skipping this LCLid.
+MAC003092 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003094 contains 'ToU'. Skipping this LCLid.
+MAC003096 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC003097 contains 'ToU'. Skipping this LCLid.
+MAC003098 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC003099 contains 'ToU'. Skipping this LCLid.
+MAC003101 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC003102 contains 'ToU'. Skipping this LCLid.
+MAC003108 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC003111 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003116 contains 'ToU'. Skipping this LCLid.
+MAC003119 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC003120 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003124 contains 'ToU'. Skipping this LCLid.
+MAC003125 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC003126 contains only 47 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC003133 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC003135 contains 'ToU'. Skipping this LCLid.
+MAC003138 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC003139 contains only 43 datapoints for date 2013-01-26. Skipping this LCLid.
+LCLid MAC003140 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003145 contains 'ToU'. Skipping this LCLid.
+MAC003148 contains only 37 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC003149 contains only 24 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC003151 contains 'ToU'. Skipping this LCLid.
+MAC003154 contains only 38 datapoints for date 2013-01-27. Skipping this LCLid.
+LCLid MAC003155 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003156 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003157 contains 'ToU'. Skipping this LCLid.
+MAC003160 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003161 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003163 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC003164 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC003165 contains 'ToU'. Skipping this LCLid.
+MAC003167 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003168 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC003170 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003175 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003178 contains 'ToU'. Skipping this LCLid.
+MAC003179 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC003180 contains 'ToU'. Skipping this LCLid.
+MAC003182 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC003183 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003185 contains 'ToU'. Skipping this LCLid.
+MAC003188 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC003190 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003196 contains 'ToU'. Skipping this LCLid.
+MAC003197 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003198 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003201 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003202 contains 'ToU'. Skipping this LCLid.
+MAC003203 contains only 46 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC003207 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003211 contains 'ToU'. Skipping this LCLid.
+MAC003212 contains only 44 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC003214 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003215 contains only 0 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC003218 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003219 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC003221 contains 'ToU'. Skipping this LCLid.
+MAC003226 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC003227 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC003228 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC003233 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC003238 contains 'ToU'. Skipping this LCLid.
+MAC003241 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003245 contains 'ToU'. Skipping this LCLid.
+MAC003246 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003247 contains 'ToU'. Skipping this LCLid.
+MAC003248 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003249 contains only 43 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC003256 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003257 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003259 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003262 contains 'ToU'. Skipping this LCLid.
+MAC003264 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003265 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003268 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003269 contains 'ToU'. Skipping this LCLid.
+MAC003270 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003272 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003274 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003277 contains 'ToU'. Skipping this LCLid.
+MAC003281 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC003282 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC003284 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC003285 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003286 contains 'ToU'. Skipping this LCLid.
+MAC003292 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003293 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003295 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003296 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC003298 contains 'ToU'. Skipping this LCLid.
+MAC003304 contains only 41 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC003308 contains 'ToU'. Skipping this LCLid.
+MAC003313 contains only 36 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC003314 contains only 28 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003315 contains 'ToU'. Skipping this LCLid.
+MAC003317 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC003319 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003321 contains 'ToU'. Skipping this LCLid.
+MAC003325 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003327 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003328 contains only 46 datapoints for date 2013-01-27. Skipping this LCLid.
+LCLid MAC003331 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003333 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003334 contains 'ToU'. Skipping this LCLid.
+MAC003336 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC003337 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003338 contains 'ToU'. Skipping this LCLid.
+MAC003342 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC003343 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC003345 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC003347 contains 'ToU'. Skipping this LCLid.
+MAC003349 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003351 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC003353 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003358 contains 'ToU'. Skipping this LCLid.
+MAC003359 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC003360 contains 'ToU'. Skipping this LCLid.
+MAC003361 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003363 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC003365 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003366 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003372 contains 'ToU'. Skipping this LCLid.
+MAC003377 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC003379 contains 'ToU'. Skipping this LCLid.
+MAC003383 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003387 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003390 contains 'ToU'. Skipping this LCLid.
+MAC003392 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003393 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003394 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC003396 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003399 contains 'ToU'. Skipping this LCLid.
+MAC003400 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003403 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC003407 contains only 46 datapoints for date 2013-02-24. Skipping this LCLid.
+LCLid MAC003409 contains 'ToU'. Skipping this LCLid.
+MAC003413 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC003414 contains 'ToU'. Skipping this LCLid.
+MAC003415 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC003416 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC003419 contains 'ToU'. Skipping this LCLid.
+MAC003421 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC003422 contains only 1 datapoints for date 2013-09-01. Skipping this LCLid.
+MAC003423 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC003425 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003427 contains 'ToU'. Skipping this LCLid.
+MAC003428 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC003429 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003430 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003434 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003436 contains 'ToU'. Skipping this LCLid.
+MAC003437 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003438 contains only 47 datapoints for date 2013-09-08. Skipping this LCLid.
+LCLid MAC003439 contains 'ToU'. Skipping this LCLid.
+MAC003440 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003442 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003454 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC003455 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003457 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003458 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC003460 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC003461 contains 'ToU'. Skipping this LCLid.
+MAC003463 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC003464 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC003466 contains only 46 datapoints for date 2013-09-15. Skipping this LCLid.
+LCLid MAC003467 contains 'ToU'. Skipping this LCLid.
+MAC003468 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC003471 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003472 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003474 contains 'ToU'. Skipping this LCLid.
+MAC003475 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC003476 contains 'ToU'. Skipping this LCLid.
+MAC003478 contains only 46 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC003479 contains only 40 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003480 contains only 35 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003481 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003483 contains 'ToU'. Skipping this LCLid.
+MAC003484 contains only 0 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC003489 contains 'ToU'. Skipping this LCLid.
+MAC003492 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC003493 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003497 contains only 47 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC003501 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003502 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003503 contains 'ToU'. Skipping this LCLid.
+MAC003504 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003505 contains 'ToU'. Skipping this LCLid.
+MAC003509 contains only 46 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC003513 contains 'ToU'. Skipping this LCLid.
+MAC003514 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC003515 contains only 1 datapoints for date 2013-09-01. Skipping this LCLid.
+MAC003516 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003521 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003523 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003524 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003525 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003528 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003531 contains 'ToU'. Skipping this LCLid.
+MAC003532 contains only 36 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003536 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003539 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003541 contains 'ToU'. Skipping this LCLid.
+MAC003542 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003544 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003545 contains 'ToU'. Skipping this LCLid.
+MAC003549 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC003550 contains 'ToU'. Skipping this LCLid.
+MAC003553 contains only 47 datapoints for date 2013-09-08. Skipping this LCLid.
+MAC003554 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003555 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003559 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003560 contains 'ToU'. Skipping this LCLid.
+MAC003569 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC003571 contains 'ToU'. Skipping this LCLid.
+MAC003572 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003573 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003574 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003578 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003580 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003581 contains 'ToU'. Skipping this LCLid.
+MAC003582 contains only 44 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC003583 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC003588 contains 'ToU'. Skipping this LCLid.
+MAC003590 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003592 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003600 contains only 35 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003601 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC003605 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003606 contains 'ToU'. Skipping this LCLid.
+MAC003608 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC003614 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC003617 contains 'ToU'. Skipping this LCLid.
+MAC003620 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003623 contains only 40 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC003626 contains 'ToU'. Skipping this LCLid.
+MAC003627 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003628 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003632 contains only 30 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC003634 contains 'ToU'. Skipping this LCLid.
+MAC003635 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003637 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003638 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003643 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003648 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003649 contains 'ToU'. Skipping this LCLid.
+MAC003650 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003652 contains 'ToU'. Skipping this LCLid.
+MAC003656 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC003661 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003665 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003666 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003669 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003675 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003677 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003679 contains 'ToU'. Skipping this LCLid.
+MAC003681 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+LCLid MAC003682 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003684 contains 'ToU'. Skipping this LCLid.
+MAC003689 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC003690 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC003691 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC003694 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003695 contains 'ToU'. Skipping this LCLid.
+MAC003697 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003698 contains only 46 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC003700 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC003703 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003705 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003706 contains 'ToU'. Skipping this LCLid.
+MAC003707 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003708 contains 'ToU'. Skipping this LCLid.
+MAC003710 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC003713 contains 'ToU'. Skipping this LCLid.
+MAC003715 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003716 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003721 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003722 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003723 contains 'ToU'. Skipping this LCLid.
+MAC003724 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC003727 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003728 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003736 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003738 contains 'ToU'. Skipping this LCLid.
+MAC003742 contains only 46 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC003744 contains only 34 datapoints for date 2013-03-09. Skipping this LCLid.
+LCLid MAC003745 contains 'ToU'. Skipping this LCLid.
+MAC003746 contains only 32 datapoints for date 2013-09-15. Skipping this LCLid.
+LCLid MAC003747 contains 'ToU'. Skipping this LCLid.
+MAC003749 contains only 47 datapoints for date 2013-08-04. Skipping this LCLid.
+LCLid MAC003753 contains 'ToU'. Skipping this LCLid.
+MAC003757 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC003758 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003760 contains 'ToU'. Skipping this LCLid.
+MAC003761 contains only 0 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC003762 contains 'ToU'. Skipping this LCLid.
+MAC003765 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC003766 contains 'ToU'. Skipping this LCLid.
+MAC003768 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003769 contains 'ToU'. Skipping this LCLid.
+MAC003770 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003771 contains 'ToU'. Skipping this LCLid.
+MAC003772 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC003774 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003777 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC003778 contains only 29 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003782 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003783 contains 'ToU'. Skipping this LCLid.
+MAC003786 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003788 contains 'ToU'. Skipping this LCLid.
+MAC003790 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC003792 contains only 21 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC003797 contains only 45 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC003801 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003803 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC003806 contains only 47 datapoints for date 2013-02-16. Skipping this LCLid.
+LCLid MAC003807 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003808 contains 'ToU'. Skipping this LCLid.
+MAC003809 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003811 contains only 1 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC003816 contains 'ToU'. Skipping this LCLid.
+MAC003817 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003818 contains only 42 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC003820 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003823 contains 'ToU'. Skipping this LCLid.
+MAC003825 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC003827 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003829 contains 'ToU'. Skipping this LCLid.
+MAC003831 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC003832 contains only 39 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC003838 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC003839 contains only 36 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003840 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC003848 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003852 contains 'ToU'. Skipping this LCLid.
+MAC003859 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC003862 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003865 contains 'ToU'. Skipping this LCLid.
+MAC003868 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC003869 contains 'ToU'. Skipping this LCLid.
+MAC003873 contains only 42 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC003877 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC003881 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC003882 contains only 47 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC003883 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC003886 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC003890 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003892 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003895 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003897 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003899 contains 'ToU'. Skipping this LCLid.
+MAC003901 contains only 36 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003903 contains 'ToU'. Skipping this LCLid.
+MAC003910 contains only 33 datapoints for date 2013-02-17. Skipping this LCLid.
+LCLid MAC003911 contains 'ToU'. Skipping this LCLid.
+MAC003913 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC003914 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003915 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003916 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003919 contains 'ToU'. Skipping this LCLid.
+MAC003920 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC003929 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC003931 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC003932 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC003933 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC003934 contains only 46 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC003938 contains only 43 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC003942 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC003947 contains 'ToU'. Skipping this LCLid.
+MAC003948 contains only 38 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003949 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC003950 contains only 41 datapoints for date 2013-01-20. Skipping this LCLid.
+LCLid MAC003951 contains 'ToU'. Skipping this LCLid.
+MAC003952 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC003954 contains 'ToU'. Skipping this LCLid.
+MAC003955 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC003960 contains 'ToU'. Skipping this LCLid.
+MAC003961 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC003962 contains only 47 datapoints for date 2013-02-02. Skipping this LCLid.
+MAC003963 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC003965 contains only 40 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC003967 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003968 contains 'ToU'. Skipping this LCLid.
+MAC003969 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC003972 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC003973 contains 'ToU'. Skipping this LCLid.
+MAC003974 contains only 47 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC003975 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003977 contains 'ToU'. Skipping this LCLid.
+MAC003980 contains only 47 datapoints for date 2013-07-07. Skipping this LCLid.
+LCLid MAC003982 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003984 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003988 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003989 contains 'ToU'. Skipping this LCLid.
+LCLid MAC003991 contains 'ToU'. Skipping this LCLid.
+MAC003993 contains only 6 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC003996 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC003998 contains 'ToU'. Skipping this LCLid.
+MAC003999 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC004000 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004001 contains 'ToU'. Skipping this LCLid.
+MAC004005 contains only 46 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC004006 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC004008 contains 'ToU'. Skipping this LCLid.
+MAC004009 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004011 contains only 46 datapoints for date 2013-08-25. Skipping this LCLid.
+LCLid MAC004012 contains 'ToU'. Skipping this LCLid.
+MAC004017 contains only 47 datapoints for date 2013-02-23. Skipping this LCLid.
+MAC004018 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004021 contains 'ToU'. Skipping this LCLid.
+MAC004023 contains only 47 datapoints for date 2013-08-25. Skipping this LCLid.
+LCLid MAC004024 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004025 contains 'ToU'. Skipping this LCLid.
+MAC004028 contains only 46 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC004031 contains 'ToU'. Skipping this LCLid.
+MAC004033 contains only 0 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004034 contains only 46 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC004035 contains 'ToU'. Skipping this LCLid.
+MAC004036 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC004037 contains 'ToU'. Skipping this LCLid.
+MAC004038 contains only 47 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC004046 contains only 0 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC004047 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004050 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004053 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004054 contains 'ToU'. Skipping this LCLid.
+MAC004056 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004058 contains only 0 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC004059 contains only 46 datapoints for date 2013-08-25. Skipping this LCLid.
+LCLid MAC004062 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004065 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004066 contains 'ToU'. Skipping this LCLid.
+MAC004067 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004068 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004069 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004070 contains only 39 datapoints for date 2013-08-03. Skipping this LCLid.
+MAC004071 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004076 contains 'ToU'. Skipping this LCLid.
+MAC004077 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004081 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004083 contains 'ToU'. Skipping this LCLid.
+MAC004087 contains only 47 datapoints for date 2013-02-23. Skipping this LCLid.
+MAC004090 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC004091 contains 'ToU'. Skipping this LCLid.
+MAC004093 contains only 45 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC004097 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004099 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC004100 contains 'ToU'. Skipping this LCLid.
+MAC004101 contains only 38 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC004104 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004105 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004106 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004107 contains 'ToU'. Skipping this LCLid.
+MAC004110 contains only 47 datapoints for date 2013-02-17. Skipping this LCLid.
+MAC004116 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004117 contains only 30 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC004118 contains 'ToU'. Skipping this LCLid.
+MAC004119 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004120 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC004121 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC004122 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004126 contains 'ToU'. Skipping this LCLid.
+MAC004129 contains only 44 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004136 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004137 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004140 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC004144 contains 'ToU'. Skipping this LCLid.
+MAC004146 contains only 37 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004149 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004152 contains 'ToU'. Skipping this LCLid.
+MAC004153 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC004154 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004155 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004157 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004159 contains 'ToU'. Skipping this LCLid.
+MAC004160 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004161 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004162 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004169 contains only 44 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC004170 contains 'ToU'. Skipping this LCLid.
+MAC004171 contains only 47 datapoints for date 2013-01-20. Skipping this LCLid.
+MAC004173 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC004174 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004176 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004180 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC004184 contains 'ToU'. Skipping this LCLid.
+MAC004186 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004189 contains 'ToU'. Skipping this LCLid.
+MAC004190 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004197 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC004198 contains only 1 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC004199 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC004202 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004205 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004206 contains 'ToU'. Skipping this LCLid.
+MAC004207 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC004209 contains only 1 datapoints for date 2013-08-11. Skipping this LCLid.
+MAC004212 contains only 47 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC004215 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004216 contains only 42 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC004218 contains 'ToU'. Skipping this LCLid.
+MAC004221 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004222 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC004223 contains 'ToU'. Skipping this LCLid.
+MAC004227 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004228 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004229 contains 'ToU'. Skipping this LCLid.
+MAC004230 contains only 1 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC004231 contains 'ToU'. Skipping this LCLid.
+MAC004233 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004234 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004236 contains 'ToU'. Skipping this LCLid.
+MAC004238 contains only 41 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC004239 contains 'ToU'. Skipping this LCLid.
+MAC004240 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004242 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004245 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004246 contains 'ToU'. Skipping this LCLid.
+MAC004248 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004255 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004257 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC004258 contains 'ToU'. Skipping this LCLid.
+MAC004259 contains only 1 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC004260 contains 'ToU'. Skipping this LCLid.
+MAC004262 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC004263 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004264 contains 'ToU'. Skipping this LCLid.
+MAC004265 contains only 43 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC004267 contains only 44 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC004270 contains 'ToU'. Skipping this LCLid.
+MAC004276 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004279 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC004283 contains 'ToU'. Skipping this LCLid.
+MAC004287 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC004292 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004293 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004294 contains only 47 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC004296 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004297 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004299 contains only 1 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004303 contains 'ToU'. Skipping this LCLid.
+MAC004304 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004305 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004306 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004307 contains 'ToU'. Skipping this LCLid.
+MAC004308 contains only 25 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC004309 contains 'ToU'. Skipping this LCLid.
+MAC004311 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004315 contains 'ToU'. Skipping this LCLid.
+MAC004316 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC004318 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004320 contains 'ToU'. Skipping this LCLid.
+MAC004322 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004323 contains 'ToU'. Skipping this LCLid.
+MAC004324 contains only 47 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC004325 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004331 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004334 contains 'ToU'. Skipping this LCLid.
+MAC004341 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004345 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004346 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004347 contains 'ToU'. Skipping this LCLid.
+MAC004348 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004350 contains 'ToU'. Skipping this LCLid.
+MAC004352 contains only 35 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC004354 contains 'ToU'. Skipping this LCLid.
+MAC004355 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC004356 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004359 contains only 46 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC004361 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004362 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004363 contains 'ToU'. Skipping this LCLid.
+MAC004365 contains only 1 datapoints for date 2013-01-20. Skipping this LCLid.
+LCLid MAC004366 contains 'ToU'. Skipping this LCLid.
+MAC004367 contains only 1 datapoints for date 2013-08-10. Skipping this LCLid.
+MAC004370 contains only 43 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC004371 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC004372 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC004374 contains 'ToU'. Skipping this LCLid.
+MAC004376 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004381 contains 'ToU'. Skipping this LCLid.
+MAC004388 contains only 0 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC004392 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004396 contains 'ToU'. Skipping this LCLid.
+MAC004397 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC004399 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004400 contains 'ToU'. Skipping this LCLid.
+MAC004401 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC004403 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC004407 contains only 45 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004408 contains 'ToU'. Skipping this LCLid.
+MAC004416 contains only 43 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC004419 contains 'ToU'. Skipping this LCLid.
+MAC004421 contains only 46 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC004422 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004424 contains 'ToU'. Skipping this LCLid.
+MAC004426 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004427 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004432 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004435 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004436 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004439 contains 'ToU'. Skipping this LCLid.
+MAC004440 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC004441 contains only 46 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC004445 contains 'ToU'. Skipping this LCLid.
+MAC004446 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC004448 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004449 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004451 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004456 contains 'ToU'. Skipping this LCLid.
+MAC004457 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004459 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC004464 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004466 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC004467 contains 'ToU'. Skipping this LCLid.
+MAC004468 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004469 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004471 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004472 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004474 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004476 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004477 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004479 contains only 1 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004482 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC004483 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC004485 contains 'ToU'. Skipping this LCLid.
+MAC004486 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004488 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC004491 contains 'ToU'. Skipping this LCLid.
+MAC004492 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC004493 contains 'ToU'. Skipping this LCLid.
+MAC004495 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004496 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC004497 contains 'ToU'. Skipping this LCLid.
+MAC004502 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC004503 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004506 contains 'ToU'. Skipping this LCLid.
+MAC004508 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+LCLid MAC004509 contains 'ToU'. Skipping this LCLid.
+MAC004513 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004514 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC004515 contains only 45 datapoints for date 2013-02-02. Skipping this LCLid.
+MAC004516 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004518 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004520 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004522 contains only 46 datapoints for date 2013-08-24. Skipping this LCLid.
+LCLid MAC004525 contains 'ToU'. Skipping this LCLid.
+MAC004531 contains only 36 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC004533 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004536 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004537 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004538 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004542 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC004543 contains 'ToU'. Skipping this LCLid.
+MAC004548 contains only 42 datapoints for date 2013-02-23. Skipping this LCLid.
+LCLid MAC004551 contains 'ToU'. Skipping this LCLid.
+MAC004555 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004557 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004558 contains only 0 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC004559 contains 'ToU'. Skipping this LCLid.
+MAC004560 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004561 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004568 contains 'ToU'. Skipping this LCLid.
+MAC004569 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004571 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004573 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004575 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004578 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004580 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004581 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004586 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC004590 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004592 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004593 contains 'ToU'. Skipping this LCLid.
+MAC004598 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004600 contains only 46 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC004604 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004605 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004606 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004609 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004610 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004611 contains 'ToU'. Skipping this LCLid.
+MAC004612 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004614 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004618 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004619 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC004620 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004621 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004622 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004623 contains 'ToU'. Skipping this LCLid.
+MAC004624 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004631 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004633 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004639 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004640 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004641 contains 'ToU'. Skipping this LCLid.
+MAC004643 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004644 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC004647 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC004649 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004655 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004657 contains 'ToU'. Skipping this LCLid.
+MAC004659 contains only 0 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004661 contains 'ToU'. Skipping this LCLid.
+MAC004663 contains only 47 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC004668 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004669 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004670 contains 'ToU'. Skipping this LCLid.
+MAC004672 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004677 contains only 43 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC004680 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC004681 contains only 28 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004683 contains 'ToU'. Skipping this LCLid.
+MAC004686 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC004687 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004689 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004691 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004693 contains 'ToU'. Skipping this LCLid.
+MAC004695 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC004697 contains 'ToU'. Skipping this LCLid.
+MAC004700 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC004701 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC004704 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004708 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004709 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004710 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004711 contains 'ToU'. Skipping this LCLid.
+MAC004712 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+LCLid MAC004713 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004714 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004716 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004719 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004720 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004722 contains 'ToU'. Skipping this LCLid.
+MAC004723 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC004728 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004731 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004733 contains 'ToU'. Skipping this LCLid.
+MAC004735 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004736 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC004738 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004741 contains only 47 datapoints for date 2013-03-17. Skipping this LCLid.
+MAC004742 contains only 47 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC004743 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004744 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004746 contains 'ToU'. Skipping this LCLid.
+MAC004750 contains only 0 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC004751 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004753 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004755 contains 'ToU'. Skipping this LCLid.
+MAC004756 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004757 contains 'ToU'. Skipping this LCLid.
+MAC004759 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004762 contains 'ToU'. Skipping this LCLid.
+MAC004764 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004765 contains 'ToU'. Skipping this LCLid.
+MAC004766 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC004767 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004768 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004770 contains 'ToU'. Skipping this LCLid.
+MAC004771 contains only 47 datapoints for date 2013-03-09. Skipping this LCLid.
+MAC004772 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004774 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC004775 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC004780 contains only 46 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC004783 contains 'ToU'. Skipping this LCLid.
+MAC004784 contains only 47 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004785 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC004789 contains 'ToU'. Skipping this LCLid.
+MAC004791 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004794 contains only 1 datapoints for date 2013-03-09. Skipping this LCLid.
+LCLid MAC004795 contains 'ToU'. Skipping this LCLid.
+MAC004796 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004797 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004798 contains only 45 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC004801 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC004805 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004806 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004808 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004810 contains only 1 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC004811 contains 'ToU'. Skipping this LCLid.
+MAC004812 contains only 46 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004813 contains only 37 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004814 contains 'ToU'. Skipping this LCLid.
+MAC004816 contains only 0 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC004817 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004818 contains 'ToU'. Skipping this LCLid.
+MAC004819 contains only 43 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC004821 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004822 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004825 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004827 contains 'ToU'. Skipping this LCLid.
+MAC004828 contains only 36 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004832 contains 'ToU'. Skipping this LCLid.
+MAC004835 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004837 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004838 contains 'ToU'. Skipping this LCLid.
+MAC004845 contains only 43 datapoints for date 2013-03-10. Skipping this LCLid.
+MAC004846 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004847 contains only 47 datapoints for date 2013-08-11. Skipping this LCLid.
+LCLid MAC004851 contains 'ToU'. Skipping this LCLid.
+MAC004852 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+MAC004854 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004855 contains 'ToU'. Skipping this LCLid.
+MAC004856 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004858 contains only 38 datapoints for date 2013-09-22. Skipping this LCLid.
+MAC004859 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004863 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004865 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC004870 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004871 contains only 25 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004872 contains only 39 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004873 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+LCLid MAC004880 contains 'ToU'. Skipping this LCLid.
+MAC004881 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC004883 contains 'ToU'. Skipping this LCLid.
+MAC004885 contains only 22 datapoints for date 2013-07-27. Skipping this LCLid.
+MAC004888 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004890 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+MAC004891 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC004893 contains 'ToU'. Skipping this LCLid.
+MAC004896 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004898 contains only 47 datapoints for date 2013-09-21. Skipping this LCLid.
+MAC004899 contains only 47 datapoints for date 2013-03-09. Skipping this LCLid.
+MAC004900 contains only 45 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004904 contains only 37 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004906 contains only 46 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC004907 contains only 1 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC004909 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004910 contains 'ToU'. Skipping this LCLid.
+MAC004915 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004917 contains 'ToU'. Skipping this LCLid.
+MAC004918 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004920 contains only 43 datapoints for date 2013-09-08. Skipping this LCLid.
+LCLid MAC004921 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004926 contains 'ToU'. Skipping this LCLid.
+MAC004931 contains only 27 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC004932 contains 'ToU'. Skipping this LCLid.
+MAC004936 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC004937 contains 'ToU'. Skipping this LCLid.
+MAC004938 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC004939 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004940 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC004942 contains only 0 datapoints for date 2013-07-20. Skipping this LCLid.
+MAC004943 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+MAC004944 contains only 47 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004946 contains only 47 datapoints for date 2013-02-03. Skipping this LCLid.
+LCLid MAC004948 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004949 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004952 contains 'ToU'. Skipping this LCLid.
+MAC004954 contains only 32 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004955 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004956 contains 'ToU'. Skipping this LCLid.
+MAC004957 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004959 contains only 36 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC004960 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC004961 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004962 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004965 contains 'ToU'. Skipping this LCLid.
+MAC004967 contains only 46 datapoints for date 2013-03-02. Skipping this LCLid.
+LCLid MAC004968 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004969 contains 'ToU'. Skipping this LCLid.
+MAC004975 contains only 35 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC004976 contains only 0 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC004977 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004979 contains 'ToU'. Skipping this LCLid.
+MAC004980 contains only 45 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC004982 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC004988 contains 'ToU'. Skipping this LCLid.
+LCLid MAC004990 contains 'ToU'. Skipping this LCLid.
+MAC004991 contains only 37 datapoints for date 2013-07-28. Skipping this LCLid.
+MAC004994 contains only 0 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC004995 contains only 0 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC004997 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005006 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005011 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005013 contains 'ToU'. Skipping this LCLid.
+MAC005014 contains only 38 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005017 contains 'ToU'. Skipping this LCLid.
+MAC005019 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC005020 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005021 contains only 43 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC005022 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005023 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005031 contains 'ToU'. Skipping this LCLid.
+MAC005033 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005034 contains 'ToU'. Skipping this LCLid.
+MAC005038 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005039 contains 'ToU'. Skipping this LCLid.
+MAC005040 contains only 47 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC005043 contains only 37 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC005046 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005047 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005051 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC005053 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005054 contains only 41 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005055 contains only 35 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005056 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC005057 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005059 contains 'ToU'. Skipping this LCLid.
+MAC005061 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005065 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005066 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC005068 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005069 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005070 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005076 contains 'ToU'. Skipping this LCLid.
+MAC005077 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC005080 contains 'ToU'. Skipping this LCLid.
+MAC005081 contains only 47 datapoints for date 2013-02-10. Skipping this LCLid.
+LCLid MAC005083 contains 'ToU'. Skipping this LCLid.
+MAC005084 contains only 0 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC005085 contains 'ToU'. Skipping this LCLid.
+MAC005087 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005089 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC005090 contains only 0 datapoints for date 2013-09-07. Skipping this LCLid.
+LCLid MAC005091 contains 'ToU'. Skipping this LCLid.
+MAC005092 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005093 contains 'ToU'. Skipping this LCLid.
+MAC005094 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005097 contains only 0 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC005098 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC005100 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC005102 contains 'ToU'. Skipping this LCLid.
+MAC005103 contains only 44 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005106 contains 'ToU'. Skipping this LCLid.
+MAC005107 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005110 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005111 contains 'ToU'. Skipping this LCLid.
+MAC005113 contains only 46 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC005115 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005117 contains only 46 datapoints for date 2013-09-14. Skipping this LCLid.
+MAC005118 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005121 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005122 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005124 contains 'ToU'. Skipping this LCLid.
+MAC005126 contains only 47 datapoints for date 2013-01-12. Skipping this LCLid.
+LCLid MAC005127 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005134 contains 'ToU'. Skipping this LCLid.
+MAC005136 contains only 47 datapoints for date 2013-03-02. Skipping this LCLid.
+MAC005140 contains only 47 datapoints for date 2013-08-24. Skipping this LCLid.
+MAC005145 contains only 7 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005146 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005147 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005148 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005149 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005150 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005152 contains 'ToU'. Skipping this LCLid.
+MAC005155 contains only 44 datapoints for date 2013-09-22. Skipping this LCLid.
+LCLid MAC005157 contains 'ToU'. Skipping this LCLid.
+MAC005158 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005159 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005160 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005161 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005162 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005164 contains 'ToU'. Skipping this LCLid.
+MAC005169 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC005171 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005172 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005173 contains 'ToU'. Skipping this LCLid.
+MAC005175 contains only 0 datapoints for date 2013-07-13. Skipping this LCLid.
+LCLid MAC005179 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005180 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005184 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005186 contains 'ToU'. Skipping this LCLid.
+MAC005188 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC005189 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005190 contains 'ToU'. Skipping this LCLid.
+MAC005192 contains only 47 datapoints for date 2013-02-02. Skipping this LCLid.
+MAC005194 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC005197 contains 'ToU'. Skipping this LCLid.
+MAC005199 contains only 34 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC005200 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005204 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005207 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005212 contains 'ToU'. Skipping this LCLid.
+MAC005215 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005216 contains only 47 datapoints for date 2013-09-15. Skipping this LCLid.
+MAC005218 contains only 30 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC005226 contains only 32 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005230 contains only 0 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC005231 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC005232 contains only 47 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC005234 contains only 38 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005235 contains only 19 datapoints for date 2013-02-16. Skipping this LCLid.
+MAC005238 contains only 47 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC005240 contains 'ToU'. Skipping this LCLid.
+MAC005241 contains only 46 datapoints for date 2013-06-30. Skipping this LCLid.
+MAC005242 contains only 45 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC005246 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC005248 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+MAC005249 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005250 contains 'ToU'. Skipping this LCLid.
+MAC005251 contains only 1 datapoints for date 2013-09-21. Skipping this LCLid.
+LCLid MAC005255 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005256 contains 'ToU'. Skipping this LCLid.
+MAC005259 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+MAC005260 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+MAC005263 contains only 0 datapoints for date 2013-06-29. Skipping this LCLid.
+MAC005265 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+LCLid MAC005266 contains 'ToU'. Skipping this LCLid.
+MAC005269 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC005271 contains 'ToU'. Skipping this LCLid.
+MAC005272 contains only 38 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005278 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005279 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005281 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005284 contains 'ToU'. Skipping this LCLid.
+MAC005286 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005287 contains only 32 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC005289 contains only 43 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005290 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005291 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005292 contains 'ToU'. Skipping this LCLid.
+MAC005295 contains only 47 datapoints for date 2013-08-25. Skipping this LCLid.
+MAC005296 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005306 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005308 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005310 contains 'ToU'. Skipping this LCLid.
+MAC005311 contains only 38 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005312 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC005313 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005316 contains only 47 datapoints for date 2013-03-16. Skipping this LCLid.
+LCLid MAC005321 contains 'ToU'. Skipping this LCLid.
+MAC005322 contains only 0 datapoints for date 2013-08-03. Skipping this LCLid.
+LCLid MAC005324 contains 'ToU'. Skipping this LCLid.
+MAC005331 contains only 1 datapoints for date 2013-07-13. Skipping this LCLid.
+MAC005335 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC005336 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005337 contains only 39 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005341 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005342 contains 'ToU'. Skipping this LCLid.
+MAC005344 contains only 5 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005345 contains only 47 datapoints for date 2013-06-23. Skipping this LCLid.
+LCLid MAC005347 contains 'ToU'. Skipping this LCLid.
+MAC005348 contains only 42 datapoints for date 2013-06-29. Skipping this LCLid.
+LCLid MAC005349 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005352 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005354 contains 'ToU'. Skipping this LCLid.
+MAC005355 contains only 36 datapoints for date 2013-03-09. Skipping this LCLid.
+LCLid MAC005359 contains 'ToU'. Skipping this LCLid.
+MAC005361 contains only 20 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005365 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005368 contains 'ToU'. Skipping this LCLid.
+MAC005376 contains only 45 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC005377 contains only 47 datapoints for date 2013-03-03. Skipping this LCLid.
+MAC005378 contains only 46 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005381 contains only 47 datapoints for date 2013-02-09. Skipping this LCLid.
+LCLid MAC005384 contains 'ToU'. Skipping this LCLid.
+MAC005386 contains only 47 datapoints for date 2013-01-13. Skipping this LCLid.
+MAC005388 contains only 31 datapoints for date 2013-06-23. Skipping this LCLid.
+MAC005391 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005393 contains only 28 datapoints for date 2013-09-14. Skipping this LCLid.
+LCLid MAC005395 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005396 contains 'ToU'. Skipping this LCLid.
+MAC005398 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005399 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+MAC005400 contains only 30 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005401 contains 'ToU'. Skipping this LCLid.
+MAC005410 contains only 47 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC005413 contains 'ToU'. Skipping this LCLid.
+MAC005422 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005423 contains only 1 datapoints for date 2013-09-15. Skipping this LCLid.
+MAC005424 contains only 47 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005426 contains only 47 datapoints for date 2013-09-01. Skipping this LCLid.
+LCLid MAC005427 contains 'ToU'. Skipping this LCLid.
+MAC005428 contains only 47 datapoints for date 2013-08-18. Skipping this LCLid.
+LCLid MAC005429 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005432 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005434 contains 'ToU'. Skipping this LCLid.
+MAC005435 contains only 46 datapoints for date 2013-01-26. Skipping this LCLid.
+MAC005437 contains only 45 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005439 contains only 42 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005440 contains only 40 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC005445 contains 'ToU'. Skipping this LCLid.
+MAC005446 contains only 47 datapoints for date 2013-07-27. Skipping this LCLid.
+LCLid MAC005448 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005449 contains 'ToU'. Skipping this LCLid.
+MAC005454 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005456 contains only 1 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005462 contains only 31 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005465 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005470 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005473 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005474 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005477 contains 'ToU'. Skipping this LCLid.
+MAC005478 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+MAC005479 contains only 47 datapoints for date 2013-07-06. Skipping this LCLid.
+MAC005480 contains only 45 datapoints for date 2013-07-06. Skipping this LCLid.
+LCLid MAC005482 contains 'ToU'. Skipping this LCLid.
+MAC005484 contains only 39 datapoints for date 2013-08-10. Skipping this LCLid.
+LCLid MAC005488 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005489 contains 'ToU'. Skipping this LCLid.
+MAC005491 contains only 47 datapoints for date 2013-06-30. Skipping this LCLid.
+LCLid MAC005492 contains 'ToU'. Skipping this LCLid.
+MAC005494 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005495 contains 'ToU'. Skipping this LCLid.
+MAC005496 contains only 47 datapoints for date 2013-08-31. Skipping this LCLid.
+LCLid MAC005498 contains 'ToU'. Skipping this LCLid.
+MAC005501 contains only 47 datapoints for date 2013-07-21. Skipping this LCLid.
+MAC005503 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC005507 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005508 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005510 contains 'ToU'. Skipping this LCLid.
+MAC005511 contains only 36 datapoints for date 2013-09-07. Skipping this LCLid.
+MAC005512 contains only 32 datapoints for date 2013-06-22. Skipping this LCLid.
+MAC005513 contains only 0 datapoints for date 2013-06-22. Skipping this LCLid.
+LCLid MAC005514 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005515 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005516 contains 'ToU'. Skipping this LCLid.
+MAC005517 contains only 47 datapoints for date 2013-07-14. Skipping this LCLid.
+LCLid MAC005522 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005524 contains 'ToU'. Skipping this LCLid.
+MAC005528 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC005529 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005533 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005535 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005536 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005537 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005538 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005541 contains 'ToU'. Skipping this LCLid.
+MAC005547 contains only 47 datapoints for date 2013-07-20. Skipping this LCLid.
+LCLid MAC005549 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005550 contains 'ToU'. Skipping this LCLid.
+LCLid MAC005551 contains 'ToU'. Skipping this LCLid.
+MAC005554 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+MAC005555 contains only 47 datapoints for date 2013-08-17. Skipping this LCLid.
+LCLid MAC005557 contains 'ToU'. Skipping this LCLid.
+MAC005558 contains only 0 datapoints for date 2013-01-06. Skipping this LCLid.
+LCLid MAC005564 contains 'ToU'. Skipping this LCLid.
